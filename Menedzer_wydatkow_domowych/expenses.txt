@@ -1,0 +1,4 @@
+Zakupy spo�ywcze;2.0;Zakupy na obiad rodzinny
+Paliwo;2.0;Tankowanie samochodu
+Paliwo;2.0;Tankowanie samochodu
+Naprawa samochodu;2.0;Wymiana zbiornika ADBlue
